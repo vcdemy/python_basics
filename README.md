@@ -16,7 +16,7 @@
 
 ### 投影片
 
-* [Python基礎 - 投影片](https://docs.google.com/presentation/d/1U5eMvT5HFUGCsFHe1wDm1XUfOFkKlBJhDZ3FMHMICJA/edit?usp=sharing)
+* [Python基礎 - 投影片](https://docs.google.com/presentation/d/140dHWSexhiarrdZVQ1Rf466LgfAlBQz2CPRtrToCe2Q/edit?usp=sharing)
 
 ### 1. 文件導覽
 
