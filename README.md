@@ -57,6 +57,9 @@
 [Visualize Code](https://pythontutor.com/)
   * 視覺化程式的執行，讓初學者更容易理解程式時，記憶體內部的改變
 
+[Online-Python](https://www.online-python.com)
+  * 線上學習寫python的工具
+
 ### 2. 實作引導
 
 Python基礎的部分，我們希望引導學員藉由動手做去熟悉Python環境的使用，並藉由動手做去了解基本資料型態(int, float, str, bool)、基本容器型別 (list, tuple, dict, set)及基本語法(if, loops, functions, exception handling)的使用。
