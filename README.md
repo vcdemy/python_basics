@@ -1,16 +1,16 @@
 # Python 基礎
 
-## 關於唯客學院：
+## 關於唯客學院
 
 * [唯客學院網址](http://www.vcdemy.com)
 * [唯客學院粉絲專頁](https://www.facebook.com/vcdemy/)
-* [唯客學院線上課程](https://khpy.teachable.com)
+* [唯客學院線上課程](https://vcdemy.teachable.com)
 
 ## 教學影片
 
 * [Python快速入門](https://khpy.teachable.com/p/simple-python-applications)
 
-## 課程內容：
+## 課程內容
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vcdemy/python_basics/)
 
